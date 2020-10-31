@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "288015369425",
+    "firebase_url": "https://loginapp-87dde.firebaseio.com",
+    "project_id": "loginapp-87dde",
+    "storage_bucket": "loginapp-87dde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288015369425:android:550d00cc2021394f9771f0",
+        "android_client_info": {
+          "package_name": "com.example.reloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288015369425-vhb9362v974vhog8dlsah4hfcavc1hk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ZWOy1_OEEUgUSc11wTKtdJnVcP5Fo7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288015369425-vhb9362v974vhog8dlsah4hfcavc1hk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

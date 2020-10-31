@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="email_empty">Email field cant be empty</string>
+    <string name="enter_valid_email_address">please enter the valid email address!</string>
+    <string name="password_empty">Password field cant be empty!</string>
+    <string name="enter_valid_password">please enter the valid password !</string>
+    <string name="confirm_password_empty">confirm Password field cant be empty!</string>
+    <string name="passwords_are_not_matching">passwords are not matching!</string>
+    <string name="login_success">You are successfully logedin</string>
+    <string name="name_empty">please enter the First Name!</string>
+    <string name="enter_valid_name">please enter the valid name!</string>
+    <string name="last_name_empty">please enter the Last Name!</string>
+    <string name="enter_the_valid_last_name">please enter the valid Last name!</string>
+    <string name="signup_success">you are successfully signed up</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_home_nav_avtivity">Home_navAvtivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Login APP</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_Profile">Profile</string>
+    <string name="menu_About_us">About us</string>
+    <string name="menu_Privacy_Policy">Privacy policy</string>
+    <string name="menu_Logout">Logout</string>
+</resources>
